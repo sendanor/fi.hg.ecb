@@ -2,6 +2,8 @@
 
 HG Git Module for NodeJS backends using [ecb-euro-exchange-rates](https://www.npmjs.com/package/ecb-euro-exchange-rates?activeTab=readme) as a dependency.
 
+See also [ecb.hg.fi](https://github.com/heusalagroup/ecb.hg.fi).
+
 ### Install the module
 
 This module depends on `ecb-euro-exchange-rates` module:
@@ -10,7 +12,7 @@ This module depends on `ecb-euro-exchange-rates` module:
 npm i ecb-euro-exchange-rates
 ```
 
-Our [fi.hg.core](https://github.com:heusalagroup/fi.hg.core) is also required dependency:
+Our [fi.hg.core](https://github.com/heusalagroup/fi.hg.core) is also required dependency:
 
 ```shell
 mkdir -p src/fi/hg
